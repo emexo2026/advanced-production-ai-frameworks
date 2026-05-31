@@ -1,6 +1,6 @@
 # Advanced Production AI Frameworks
 
-This is the official open-source repository for the elite software engineering track managed by eMexo Technologies in Electronic City, Bangalore Access full code structures, operational matrices, and documentation roadmaps detailing how to deploy advanced computational networks, tensor operations, and complex neural systems into production-ready environments
+This is the official open-source repository for the elite software engineering track managed by eMexo Technologies in Electronic City, Bangalore Access full code structures, operational matrices, and documentation roadmaps detailing how to deploy advanced computational networks, tensor operations, and complex neural systems into production-ready environments 
 
 ---
 
